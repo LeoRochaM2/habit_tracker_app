@@ -17,10 +17,10 @@ all powered by an SQLite3 database backend.
 ## Installation
 To set up the Habit Tracker project, follow these steps:
 
-1. Clone the repository:
+1. 1. Clone the repository:
    ```Shell
-   git clone <repository-url>
-   cd habit-tracker
+   git clone <https://github.com/LeoRochaM2/habit_tracker_app.git>
+   cd habit_tracker_app
    ```
 
 2. Install the dependencies:
