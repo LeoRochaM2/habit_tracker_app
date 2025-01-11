@@ -66,13 +66,13 @@ Check Off a Habit
 - Enter the habit name and an optional date (defaults to today).
 - The app logs the event in the tracker.
 
-Analyze Habits
+Analyse Habits
 
-- Choose "Analyze your habits" and select one of the following:
+- Choose "Analyse your habits" and select one of the following:
 - View all currently tracked habits.
 - Display habits grouped by periodicity.
 - See the longest run streak across all habits.
-- Analyze the longest streak for a specific habit.
+- Analyse the longest streak for a specific habit.
 - Retrieve all details about a habit.
 
 Update a Habit
